@@ -1,6 +1,7 @@
 # INFO DUMP 
 
 INSPO:
+
 Majin and the Forsaken Kingdom
 
 Zelda
