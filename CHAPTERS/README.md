@@ -1,4 +1,6 @@
-# INTRO
+# CHAPTER IDEAS
+
+## INTRO
 
 *change to 1st p pov*
 
