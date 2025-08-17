@@ -8,7 +8,7 @@ Dnd
 Bg3
 Genshin
 
-25 may 6
+## 25 may 6
 
 dps de seculos tentando se unificar ou alcançar uma trégua, estoura uma guerra grande 
 
@@ -300,3 +300,55 @@ passaram a n ligar muito pra isso
 [5/6, 22:25] MAKI: tipo uma resistencia
 
 [5/6, 22:26] MAKI: q mora no reino A
+
+
+## PLOT
+
+Princess DahLia, a curious young woman, was never allowed near the kingdom’s borders. 
+She has always been interested in history and wanted to see for herself the state of ZaYue’s remains.
+She planned an escape and arrived at the borders, managed to pass through guards. During her stroll, she encountered the darkness creatures, the ??? and was almost killed by them, but was saved by an unknown entity, a voice.
+
+The voice called for her.
+
+DahLia followed the mesmerizing voice until the castle ruins, where she discovered the source of the voice was inside a tomb. 
+
+“I’m stuck, please, save me.”
+
+She opened the tomb. 
+
+She had just released the evil entity, Thorgunna, who had been imprisoned after the Great War.
+The entity engulfed DahLia in its shadows and possessed her body completely. 
+
+“How good it is to finally feel alive again!!!”
+
+DahLia, now possessed, wanted to take revenge on Ollantea.
+
+
+During the Great War, Ollantea’s king, Thorgils, found himself in the dark with no way out. That’s when he summoned a demon and sold his life. 
+The entity brought him victory by unleashing the powerful curse. 
+
+Exhausted by the spell, the entity found itself in a weak state and was caught by a hero of the country and imprisoned inside ZaYue and never to come out. 
+
+This would later become the biggest secret of Ollantea and never to be known by the public. 
+
+A secret shared between the elite of the elite. 
+
+They all repeated inside their minds: 
+
+**“Ollantea won the war fair and square. King Thorgils died of disease.”**
+
+
+Princess DahLia is gone. The Queen is in panic mode. The majority of the royal circle, except for the Queen, are current adepts of the evil who disguised themselves waiting for the opportunity to revive/unleash their master, Thorgunna. They have a cult. They worked together to get Princess DahLia to reach Thorgunna, letting her escape on purpose.
+Princess DahLia possessed the power to open the tomb in her veins, being a descendant of the hero who imprisoned Thorgunna.
+With Leif in their world, Thorgunna would have a chance to take revenge on Ollantea using Leif’s otherworldly energy and even make its way to the real dimension after vengeance.
+
+
+## ENDINGS
+
+True Ending: Leif lets Thorgunna possess his body and go back to the real dimension. 
+Leif is upset and angry after discovering the truth and being set, against his will, to risk his life over things that are not his responsibility. He sides with Thorgunna.
+
+
+Good Ending: Leif sympathizes with the ZaYue people and wants everyone to know the truth. DahLia becomes the new queen. ZaYue begins rebuilding itself step by step and connects both kingdoms. 
+
+Good Ending 2.0: If Leif chooses to pursue a romantic relationship with DahLia, he can take her with him to the real dimension.
