@@ -2,10 +2,15 @@
 
 INSPO:
 Majin and the Forsaken Kingdom
+
 Zelda
+
 Escape room puzzles
+
 Dnd
+
 Bg3
+
 Genshin
 
 ## 25 may 6
