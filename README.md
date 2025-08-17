@@ -1,4 +1,4 @@
-# DahLia-Eternal
+# DahLia: Eternal
 
 *WIP* 
 ## Description

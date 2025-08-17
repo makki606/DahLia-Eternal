@@ -1,5 +1,13 @@
 # INFO DUMP 
 
+INSPO:
+Majin and the Forsaken Kingdom
+Zelda
+Escape room puzzles
+Dnd
+Bg3
+Genshin
+
 25 may 6
 
 dps de seculos tentando se unificar ou alcançar uma trégua, estoura uma guerra grande 
