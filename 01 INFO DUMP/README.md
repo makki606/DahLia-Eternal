@@ -14,6 +14,8 @@ Bg3
 
 Genshin
 
+
+
 ## 25 may 6
 
 dps de seculos tentando se unificar ou alcançar uma trégua, estoura uma guerra grande 
@@ -308,6 +310,7 @@ passaram a n ligar muito pra isso
 [5/6, 22:26] MAKI: q mora no reino A
 
 
+
 ## PLOT
 
 Princess DahLia, a curious young woman, was never allowed near the kingdom’s borders. 
@@ -347,6 +350,7 @@ They all repeated inside their minds:
 Princess DahLia is gone. The Queen is in panic mode. The majority of the royal circle, except for the Queen, are current adepts of the evil who disguised themselves waiting for the opportunity to revive/unleash their master, Thorgunna. They have a cult. They worked together to get Princess DahLia to reach Thorgunna, letting her escape on purpose.
 Princess DahLia possessed the power to open the tomb in her veins, being a descendant of the hero who imprisoned Thorgunna.
 With Leif in their world, Thorgunna would have a chance to take revenge on Ollantea using Leif’s otherworldly energy and even make its way to the real dimension after vengeance.
+
 
 
 ## ENDINGS
