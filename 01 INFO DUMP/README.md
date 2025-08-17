@@ -2,17 +2,12 @@
 
 INSPO:
 
-Majin and the Forsaken Kingdom
-
-Zelda
-
-Escape room puzzles
-
-Dnd
-
-Bg3
-
-Genshin
+- Majin and the Forsaken Kingdom
+- Zelda
+- Escape room puzzles
+- Dnd
+- Bg3
+- Genshin
 
 
 
@@ -362,3 +357,47 @@ Leif is upset and angry after discovering the truth and being set, against his w
 Good Ending: Leif sympathizes with the ZaYue people and wants everyone to know the truth. DahLia becomes the new queen. ZaYue begins rebuilding itself step by step and connects both kingdoms. 
 
 Good Ending 2.0: If Leif chooses to pursue a romantic relationship with DahLia, he can take her with him to the real dimension.
+
+##  BUILDING
+
+- **PUZZLES/MINIGAMES:**
+  - drag and reassemble pieces of paper (lost, hidden pages of Lily’s research)
+  - pick locks to open chests
+  - Use light source to search objects inside dark places
+  - hit bells in the right order to unlock passages (Simon Says like) 
+  - Casting spell system, fighting system to defeat monsters Turn-based combat
+  - drag, slide, rotate pieces to unlock/open stuff or fix
+
+- **BATTLE SYSTEM**
+  - Turn-based
+  - change the usual VN format to Pokemon like battle
+
+- **BUTTON: TALK TO ERIK**
+  - show Erik in the centre of the screen, like Paimon
+  - offer basic question options like how are you, what should we do now, how about we take a rest, tell me an interesting fact
+  - E “What is it, Leif boy?”
+
+- **GAME BEGINNING:**
+
+#insert cg of Leif staring at the computer, Cytus II Neko vibes
+
+#L: Leif; n: narrator 
+
+L “(An e-mail?)”
+
+#insert email img with zip file, content being the request for him to test the beta ver of the game.
+
+L “DahLia: Eternal…?”
+
+L “(I have to try this game out then. Awesome!)”
+
+n “I quickly downloaded the zip file and installed the game.”
+
+L “(...and start!)”
+
+#insert opening, try animating something or an animatic whatever. Inspo: Cytus II op, gyakuten saiban op, 
+
+#OP DESC: start with a black or blue screen and title appearing, then fade screen to leif semi-asleep, pov eye blink, blue sky, he's laying down on the grass w some breeze. Then he is startled by Erik hitting him with his beak and sits up. Suddenly, a bunch of pixies fly across them. Transition. Queen Magnolia, her servant. Scene of Princess DahLia in the dark, close up of her eyes glitching then zoom out. Scene of the ruins in ZaYue, Leif and Erik exploring. More Leif and Erik exploring. End with a scene of the Danaelline and fade to black.
+
+
+
