@@ -379,25 +379,25 @@ Good Ending 2.0: If Leif chooses to pursue a romantic relationship with DahLia, 
 
 - **GAME BEGINNING:**
 
-#insert cg of Leif staring at the computer, Cytus II Neko vibes
+  #insert cg of Leif staring at the computer, Cytus II Neko vibes
 
-#L: Leif; n: narrator 
+  #L: Leif; n: narrator 
 
-L “(An e-mail?)”
+  L “(An e-mail?)”
 
-#insert email img with zip file, content being the request for him to test the beta ver of the game.
+  #insert email img with zip file, content being the request for him to test the beta ver of the game.
 
-L “DahLia: Eternal…?”
+  L “DahLia: Eternal…?”
 
-L “(I have to try this game out then. Awesome!)”
+  L “(I have to try this game out then. Awesome!)”
 
-n “I quickly downloaded the zip file and installed the game.”
+  n “I quickly downloaded the zip file and installed the game.”
 
-L “(...and start!)”
+  L “(...and start!)”
 
-#insert opening, try animating something or an animatic whatever. Inspo: Cytus II op, gyakuten saiban op, 
+  #insert opening, try animating something or an animatic whatever. Inspo: Cytus II op, gyakuten saiban op, 
 
-#OP DESC: start with a black or blue screen and title appearing, then fade screen to leif semi-asleep, pov eye blink, blue sky, he's laying down on the grass w some breeze. Then he is startled by Erik hitting him with his beak and sits up. Suddenly, a bunch of pixies fly across them. Transition. Queen Magnolia, her servant. Scene of Princess DahLia in the dark, close up of her eyes glitching then zoom out. Scene of the ruins in ZaYue, Leif and Erik exploring. More Leif and Erik exploring. End with a scene of the Danaelline and fade to black.
+  #OP DESC: start with a black or blue screen and title appearing, then fade screen to leif semi-asleep, pov eye blink, blue sky, he's laying down on the grass w some breeze. Then he is startled by Erik hitting him with his beak and sits up. Suddenly, a bunch of pixies fly across them. Transition. Queen Magnolia, her servant. Scene of Princess DahLia in the dark, close up of her eyes glitching then zoom out. Scene of the ruins in ZaYue, Leif and Erik exploring. More Leif and Erik exploring. End with a scene of the Danaelline and fade to black.
 
 
 
